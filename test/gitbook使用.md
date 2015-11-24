@@ -25,7 +25,8 @@ This is the summary of my book.
 初始化书以后，我们就该创建对应章节的内容了。在这里，我们可以先创建对应的文件夹，然后在里面编辑对应的内容，之后更新SUMMARY.md这个目录文件；如果在编辑之前我们已经确定好了内容标题和目录，也可以先编辑SUMMARY.md文件，然后通过`gitbook init`来初始化一遍，它会自动创建文件目录和对应的md文件。
 
 
-参考：
-[Gitbook 的使用和常用插件](http://zhaoda.net/2015/11/09/gitbook-plugins/)
-[Mac下GitBook制作电子书](http://liaoer.net/2015/04/30/Mac%E4%B8%8BGitBook%E5%88%B6%E4%BD%9C%E7%94%B5%E5%AD%90%E4%B9%A6/)
-[使用GitBook](http://blog.windrunner.info/app/gitbook-tutorial.html)
+###参考：
+[Gitbook 的使用和常用插件](http://zhaoda.net/2015/11/09/gitbook-plugins/)   
+[Mac下GitBook制作电子书](http://liaoer.net/2015/04/30/Mac%E4%B8%8BGitBook%E5%88%B6%E4%BD%9C%E7%94%B5%E5%AD%90%E4%B9%A6/) 
+[使用GitBook](http://blog.windrunner.info/app/gitbook-tutorial.html)    
+[Gitbook 使用入门](http://wanqingwong.com/gitbook-zh)
